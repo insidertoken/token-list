@@ -9363,21 +9363,6 @@
         "coingeckoId": "dexlab"
       }
     },
-       {
-      "chainId": 101,
-      "address": "DH1rrVHz9ciKWK4XWhFNjEbitCpCA4XtmqA8tUXU1JRV",
-      "symbol": "NSD",
-      "name": "Insider AI",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/insidertoken/token-list/main/assets/mainnet/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://insidertoken.org/",
-        "twitter": "https://twitter.com/insidertoken",
-        "coingeckoId": "insidertoken"
-      }
-    },
-    
     {
       "chainId": 101,
       "address": "APvgd1J98PGW77H1fDa7W7Y4fcbFwWfs71RNyJKuYs1Y",
